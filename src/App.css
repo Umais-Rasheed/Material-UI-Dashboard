@@ -1,0 +1,20 @@
+.top-right-icon {
+  display: flex;
+  align-items: center;
+  justify-content: right;
+}
+.main-manue {
+  margin: 20px;
+  padding-bottom: 20px;
+}
+/* for table */
+.tableHeader {
+  font-size: 12px  !important; 
+  color: rgba(0, 0, 0, 0.54)  !important; 
+}
+
+.tableBody {
+  font-size: 12px !important; 
+  color: rgba(0, 0, 0, 0.84) !important; 
+}
+
